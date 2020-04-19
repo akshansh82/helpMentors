@@ -3,7 +3,7 @@ import time
 import openpyxl
 import urllib.request
 import pytesseract as tess
-
+import backcall
 from PIL import Image
 from tqdm import tqdm
 from colorama import Fore
